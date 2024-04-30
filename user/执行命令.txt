@@ -1,5 +1,0 @@
-cd/d d:\CODE\saturday\user
-
-gcc main.c -o app1.exe
-
-app1
